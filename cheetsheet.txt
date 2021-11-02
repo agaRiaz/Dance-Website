@@ -19,3 +19,5 @@ tail <path to id_rsa.pub> # Add this key to your GitHub Account
 git remote add origin <ssh url.git>
 
 git push origin master
+
+vscode://vscode.github-authentication/did-authenticate?windowid=1&code=1d9cd49543df63e77219&state=c3097e99-944d-4f5b-8246-108c1da12f0f
